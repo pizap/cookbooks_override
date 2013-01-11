@@ -1,4 +1,7 @@
 = DESCRIPTION:
+Updates the DEFAULT RightScale HAPorxy Configuration for ipZAP servers.
+
+* Removed the logs for the server by default.
 
 = REQUIREMENTS:
 
